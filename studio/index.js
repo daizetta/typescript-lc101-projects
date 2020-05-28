@@ -2,6 +2,9 @@
 // Instructions are published in the online book. The URL is:
 // https://education.launchcode.org/intro-to-professional-web-dev/chapters/typescript/studio.html
 exports.__esModule = true;
+// TODO: 
+// * Code the Astronaut, Cargo, and Rocket classes in new files.
+// * Import the three classes into this file.
 var Astronaut_1 = require("./Astronaut");
 var Cargo_1 = require("./Cargo");
 var Rocket_1 = require("./Rocket");
